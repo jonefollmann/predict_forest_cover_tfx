@@ -8,6 +8,6 @@ Dataflow jobs for scalable, distributed data processing for TFX components.
 A AI Platform Training job for model training and flock management for parallel tuning trials.
 AI Platform Prediction as a model server destination for blessed pipeline model versions.
 CloudTuner and AI Platform Vizier for advanced model hyperparameter tuning using the Vizier algorithm.
-You will then create and monitor pipeline runs using the TFX CLI as well as the KFP UI.
+Create and monitor pipeline runs using the TFX CLI as well as the KFP UI.
 
 This project has the purpose of consolidating skills learned in the practical GCP Course.
